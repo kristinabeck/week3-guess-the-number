@@ -71,7 +71,7 @@ def playGame( showAnswer ):
 
 
     print ('Guess a number between 1 and ' +  str(upperLimit) +'. You have ' + str(totalGuesses)+ ' guesses.')
-
+#
     
     # you don't need to change anything below this comment ##############
     # ///////////////////////////////////////////////////////////////////
